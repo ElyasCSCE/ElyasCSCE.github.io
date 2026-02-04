@@ -1,9 +1,11 @@
 p { 
-  text-align: center;   color: red;
+  text-align: center;  
+   color: red;
 }
-#para1 {
-  text-align: center;   color: blue;
+#header{
+  color:green;
 }
-.center {
-  text-align: center;   color: green;
+.about{
+  text-align:center;
+  color:blue;
 }
