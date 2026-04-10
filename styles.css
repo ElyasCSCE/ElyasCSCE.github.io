@@ -26,3 +26,7 @@ body {
 .attention {
     font-weight: bold;
 }
+.project img {
+    width: 100%;
+    height: auto;
+}
